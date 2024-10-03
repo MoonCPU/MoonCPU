@@ -3,13 +3,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mooncpu&label=Profile%20views&color=0e75b6&style=flat" alt="mooncpu" /> </p>
 
-- 🔭 I’m currently working on [FastApi Web Scraper API](https://github.com/MoonCPU/fastScraperBack/)
+- 🔭 I’m currently studying full-stack web development
 
 - 🌱 I’m currently learning **AWS, Terraform, Cloud computing**
 
 - 📫 How to reach me **moonkang20@gmail.com**
-
-- 📄 Know about my experiences [my exp](my exp)
 
 - ⚡ I'm working at **IBM**
 
