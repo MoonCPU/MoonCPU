@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently studying full-stack web development
 
-- 🌱 I’m currently learning **AWS, .NET, Angular**
+- 🌱 I’m currently learning **AWS, Java, React**
 
 - 📫 How to reach me **moonkang20@gmail.com**
 
