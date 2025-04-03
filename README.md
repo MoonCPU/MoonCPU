@@ -3,10 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mooncpu&label=Profile%20views&color=0e75b6&style=flat" alt="mooncpu" /> </p>
 
-- 🔭 I’m currently studying full-stack web development
-
-- 🌱 I’m currently learning **AWS, Java, React**
-
 - 📫 How to reach me **moonkang20@gmail.com**
 
 - ⚡ I'm working at **IBM**
