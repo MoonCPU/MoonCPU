@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mooncpu&label=Profile%20views&color=0e75b6&style=flat" alt="mooncpu" /> </p>
 
-- 🌱 I’m currently learning **Java Spring Boot.**
-
 - 👨‍💻 Visit my website [www.moondev-cloud.com](www.moondev-cloud.com)
 
 - 💬 Ask me about **web development and devops**
