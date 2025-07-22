@@ -9,9 +9,6 @@
 
 - 📫 How to reach me **moonkang20@gmail.com**
 
-- 📄 Know about my experiences [https://i.imgur.com/Rz6hJD7.png](https://i.imgur.com/Rz6hJD7.png)
-
-<h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
 
