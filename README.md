@@ -3,10 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mooncpu&label=Profile%20views&color=0e75b6&style=flat" alt="mooncpu" /> </p>
 
-- 👨‍💻 Visit my website [www.moondev-cloud.com](www.moondev-cloud.com)
-
-- 💬 Ask me about **web development and devops**
-
 - 📫 How to reach me **moonkang20@gmail.com**
 
 <p align="left">
